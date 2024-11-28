@@ -81,4 +81,21 @@ document.querySelector('.btn').addEventListener('click', function () {
     const contactSection = document.getElementById('contact');
     contactSection.scrollIntoView({ behavior: 'smooth' });
   });
+   
+  // JavaScript to toggle the sidebar visibility
+// JavaScript for toggling sidebar
+document.getElementById("menu-icon").addEventListener("click", function () {
+  console.log("Menu icon clicked");
+  const sidebar = document.getElementById("mobile-sidebar");
+  sidebar.classList.add("active");
+});
+
+document.getElementById("close-icon").addEventListener("click", function () {
+  console.log("Close icon clicked");
+  const sidebar = document.getElementById("mobile-sidebar");
+  sidebar.classList.remove("active");
+});
+
+
+
   

@@ -76,7 +76,7 @@ body {
   .side-bar i {
     font-size: 24px;
     color: #faf2f2;
-    margin-top: auto; /* Pushes the icon to the bottom */
+    /* Pushes the icon to the bottom */
     cursor: pointer;
   }
   nav .right i {
@@ -84,8 +84,6 @@ body {
     cursor: pointer;
   }
 }
-
-  
   nav .right{
     display: flex;
     gap: 4vw;

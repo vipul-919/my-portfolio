@@ -35,6 +35,14 @@ function openModal(itemTitle) {
         technologies: "React, Node.js",
         role: "Full Stack",
         link: "https://www.canteenfood.com"
+      },
+       "Fashion": {
+        title: "Fashion",
+        description: "A clothing website sells stylish apparel with clear images and easy shopping.",
+       // created: "10 Mar 2024",
+        technologies: "HTML, CSS, JavaScript",
+        role: "Full Stack",
+        link: "https://fashion-tau-fawn.vercel.app/"
       }
     };
   

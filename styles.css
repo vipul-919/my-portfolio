@@ -256,6 +256,7 @@ span {
     text-transform: uppercase;
     background-color: burlywood;
     color: var(--dark);
+    margin-top: 1.8rem;
   }
   .btn:hover {
     background: transparent;
@@ -268,7 +269,7 @@ span {
         flex-direction: column;
         clip-path: none;
         gap: 2vw; /* Reduce the gap */
-        padding: 100px; /* Add some padding for mobile view */
+        padding: 50px; /* Add some padding for mobile view */
        text-align: justify;
     }
     .hero .left img{

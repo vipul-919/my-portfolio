@@ -43,6 +43,14 @@ function openModal(itemTitle) {
         technologies: "HTML, CSS, JavaScript",
         role: "Full Stack",
         link: "https://fashion-tau-fawn.vercel.app/"
+      },
+      "Household-Effects": {
+        title: "Household-Effects",
+        description: "Stylish, comfortable furniture to transform your home. Explore our collection today!",
+       // created: "10 Mar 2024",
+        technologies: "HTML, CSS, JavaScript",
+        role: "Full Stack",
+        link: "https://household-effects.vercel.app/"
       }
     };
   
